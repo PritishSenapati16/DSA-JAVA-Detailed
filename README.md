@@ -1,4 +1,4 @@
-# DSA-JAVA-
+# DSA-JAVA-Detailed
 
 This repository contains implementations of various Data Structures and Algorithms (DSA) in Java. The goal is to provide clean, efficient, and well-documented code for common algorithms and data structures used in computer science.
 
