@@ -1,42 +1,119 @@
-# DSA-JAVA-Detailed
+# 🧠 Java Mastery: OOP + DSA
 
-This repository contains implementations of various Data Structures and Algorithms (DSA) in Java. The goal is to provide clean, efficient, and well-documented code for common algorithms and data structures used in computer science.
+Welcome to **Java Mastery**, a clean, well-organized repository where **Object-Oriented Programming** meets **Data Structures and Algorithms** — built in Java with 💙 for learning, practicing, and revision.
 
-## Table of Contents
+---
 
-- [Introduction](#introduction)
-- [Data Structures](#data-structures)
-- [Algorithms](#algorithms)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## 📚 Table of Contents
 
-## Introduction
+- [📖 Overview](#-overview)
+- [🔍 Core Java (OOP Concepts)](#-core-java-oop-concepts)
+- [🧱 Data Structures](#-data-structures)
+- [⚙️ Algorithms](#️-algorithms)
+- [🚀 How to Use](#-how-to-use)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
-This repository includes Java implementations for popular data structures and algorithms. It serves as a learning resource for anyone looking to understand or improve their knowledge of DSA concepts.
+---
 
-## Data Structures
+## 📖 Overview
 
-Here are the data structures implemented in this repository:
+This repository is your all-in-one Java resource — from **foundational object-oriented concepts** to **advanced DSA topics**. It’s perfect for:
 
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees (Binary Search Tree, AVL Tree, etc.)
-- Graphs
-- Hash Maps
-- Heaps
+- 🧑‍🎓 Computer Science students
+- 💼 Placement & Interview prep
+- 🛠️ Developers brushing up Java skills
 
-## Algorithms
+---
 
-The repository contains implementations for the following algorithms:
+## 🔍 Core Java (OOP Concepts)
 
-- Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
-- Searching Algorithms (Binary Search, Linear Search)
-- Graph Algorithms (DFS, BFS, Dijkstra’s, etc.)
-- Dynamic Programming
-- Greedy Algorithms
-- Divide and Conquer
-- Backtracking
+Learn the **pillars of object-oriented programming**, along with powerful language features:
 
+### 🔹 Basics
+- Introduction to Java & JDK Setup
+- Variables, Data Types, and Operators
+- Conditionals and Loops
+- Methods and Method Overloading
+
+### 🔹 OOP Principles
+- Classes and Objects
+- Constructors & `this` Keyword
+- Inheritance & `super` Keyword
+- Method Overriding & Dynamic Method Dispatch
+- Abstraction (Abstract Class & Interface)
+- Encapsulation
+- Polymorphism
+
+### 🔹 Advanced Features
+- Access Modifiers (public, private, protected)
+- Static and Final Keywords
+- Inner Classes & Anonymous Classes
+- Java Generics
+- Exception Handling (try-catch, custom exceptions)
+- File Handling (FileReader, FileWriter, BufferedReader)
+
+---
+
+## 🧱 Data Structures
+
+Solid implementations of major data structures in Java:
+
+- ✅ Arrays
+- ✅ Linked Lists (Singly, Doubly)
+- ✅ Stacks
+- ✅ Queues (Normal, Circular, Priority)
+- ✅ Trees (Binary Tree, BST, AVL)
+- ✅ Graphs (Adjacency List & Matrix)
+- ✅ Hash Maps / Hash Tables
+- ✅ Heaps (Min/Max)
+
+---
+
+## ⚙️ Algorithms
+
+A wide range of algorithms coded and explained:
+
+### 🔢 Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+
+### 🔍 Searching
+- Linear Search
+- Binary Search
+
+### 🌐 Graph Algorithms
+- DFS (Depth-First Search)
+- BFS (Breadth-First Search)
+- Dijkstra’s Algorithm
+
+### 🔁 Recursion & Backtracking
+- Factorial, Fibonacci
+- N-Queens
+- Sudoku Solver
+
+### 💡 Dynamic Programming
+- 0/1 Knapsack
+- Longest Common Subsequence
+- Memoization & Tabulation techniques
+
+### 🧠 Greedy Algorithms
+- Activity Selection
+- Huffman Coding
+
+### ⚔️ Divide & Conquer
+- Merge Sort
+- Quick Sort
+- Binary Search
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/java-mastery.git
